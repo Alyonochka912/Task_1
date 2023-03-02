@@ -1,0 +1,52 @@
+body 
+{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: flex-start;
+}
+html, body 
+{
+    height: 100%;
+    margin: 0;
+}
+main 
+{
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}   
+.top-border 
+{
+    border-top: solid 1px red;
+}
+/*footer
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}*/
+.block1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.block2
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.form_st
+{
+    width: 110%;
+}
+.h_st
+{
+    margin-bottom: auto;
+    margin-right: auto;
+}
