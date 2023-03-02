@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
 <?php
-$title1 = Главная;
-$title2 = Регистрация;
-$title3 = Авторизация;
+    $title1 = Главная;
+    $title2 = Регистрация;
+    $title3 = Авторизация;
 ?>
